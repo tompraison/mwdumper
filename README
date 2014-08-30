@@ -1,3 +1,12 @@
+
+Patched Version to address the following issues
+
+1. Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 2048 
+
+2. org.apache.xerces.impl.io.MalformedByteSequenceException: Invalid byte 2 of 4-byte UTF-8 sequence.
+
+
+
 A quick little tool for extracting sets of pages from a MediaWiki dump file.
 
 Can read MediaWiki XML export dumps (version 0.3, minus uploads), perform
